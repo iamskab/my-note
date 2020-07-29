@@ -1,6 +1,7 @@
 # my-note
 ## Dev-Dependencies
 - React
+- React-Scripts
 - React-DOM
 - React-Quill
 - Firebase
